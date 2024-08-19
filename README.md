@@ -16,4 +16,4 @@ Website : https://itnotice.vercel.app/
 
 [66070070 ทนันทน์สรณ์ ศิริรัตน์](https://github.com/Zensos)
 
-Github Back-end: https://github.com/Zensos/itnotice-core
+Github Back-end: https://github.com/SassyxD/IT-notice
