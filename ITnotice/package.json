@@ -1,0 +1,32 @@
+{
+  "name": "pscp-client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@react-icons/all-files": "^4.1.0",
+    "axios": "^1.6.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.11.0",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@types/node": "20.8.9",
+    "@types/react": "18.2.33",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "tailwindcss-animated": "^1.0.1"
+  }
+}
